@@ -12,7 +12,14 @@ The tabs are named: San Francisco map, Neighborhood Categories, The top 10 most 
 
 The San Francisco Map tab, offers an area map view, with colors ranging from blue to red (low to high) gross rent. The map can be interactively zoomed in/out and hovering above each circle, displays a small window with gross rent and price per square feet information.
 
-Neighborhood Categories tab, reports 2 different views of the housing market: the top chart displays relationships between price per square feet, the number of housing units and the rent for the top 10 neighborhoods. while the bottom, expands the view including the neighborhood names. These charts, allows to 
+Neighborhood Categories tab, reports 2 different views of the housing market: the top chart displays relationships between price per square feet, the number of housing units and the rent for the top 10 neighborhoods. while the bottom, expands the view including the neighborhood names. The different columns on the bottom chart can be dragged up or down to compare to prices from other neighborhoods, housing, etc.
+
+The top 10 more expensive tab, offers two different views of the housing market in the area. the bar chart on the left reveals an increase of the numbers of houses per year, while the chart on the right reveals, the prices and names of the ten most expensive neighborhoods on the same time period. Both charts can be hovered to display details on each bar, can be zoomed in or out, saved and refreshed. 
+
+Finally the Prices_and Analysis tab presents price changes over the years on each neighborhood. To display the desired neighborhood data, drop down the menu and select the neighborhood that wants to be analyzed (note that all the neighborhood data is available).
+
+### San Francisco Dashboard in action: 
+
 
 
 
