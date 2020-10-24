@@ -6,13 +6,18 @@ ____
 
 ## San Francisco Dashboard Tool:
 
-The San Francisco dashboard tool is composed of four tabs, fed with information related to sales prices, gross monthly rent databases and number of housing units per neighborhood.
+The San Francisco dashboard tool is composed of four tabs, fed with information related to sales prices, gross monthly rent databases, number of housing units per neighborhood, as well as the coordinates of each neighborhood. 
 
 The tabs are named: San Francisco map, Neighborhood Categories, The top 10 most expensive and Price & Analysis. on each tab analysis tools offers a different perspective or view of San Francisco area.
 
-The San Francisco Map tab, offers an area map view, with colors ranging from blue to red (low to high) gross rent. The map can be interactively zoomed in/out and hovering above each circle, displays a small window with gross rent and price per square feet information.
+<img align="left" width="250" height="175" src="Starter_Code/Images/sfo_map.png"> 
+<div style="text-align: left">The San Francisco Map tab, offers an area map view, with colors ranging from blue to red (low to high) gross rent. The map can be interactively zoomed in/out and hovering above each circle, displays a small window with gross rent and price per square feet information.
+<div style="text-align: left">
 
-Neighborhood Categories tab, reports 2 different views of the housing market: the top chart displays relationships between price per square feet, the number of housing units and the rent for the top 10 neighborhoods. while the bottom, expands the view including the neighborhood names. The different columns on the bottom chart can be dragged up or down to compare to prices from other neighborhoods, housing, etc.
+<img align="right" width="250" height="175" src="Starter_Code/Images/parallel1.png">
+
+
+Neighborhood Categories tab, reports 2 different views of the housing market: the top chart displays relationships between price per square feet, the number of housing units and the rent for the top 10 neighborhoods. while the bottom, expands the view including the neighborhood names. The different columns on the bottom chart can be dragged up or down to compare to prices from other neighborhoods, housing, etc.<img align="right" width="250" height="175" src="Starter_Code/Images/parallel2.png">
 
 The top 10 more expensive tab, offers two different views of the housing market in the area. the bar chart on the left reveals an increase of the numbers of houses per year, while the chart on the right reveals, the prices and names of the ten most expensive neighborhoods on the same time period. Both charts can be hovered to display details on each bar, can be zoomed in or out, saved and refreshed. 
 
